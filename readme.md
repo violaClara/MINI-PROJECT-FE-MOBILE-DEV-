@@ -120,7 +120,7 @@ Kami mengundang Anda untuk berkontribusi mengembangkan Work Focus. Jika ingin me
 
 ## 📜 Lisensi
 
-Work Focus dilisensikan di bawah [MIT License](LICENSE).
+dibuat untuk memenuhi mini project PT.Indonesia Indicator (eBdesk Group)
 
 ---
 
