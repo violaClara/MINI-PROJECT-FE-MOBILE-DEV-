@@ -83,7 +83,7 @@ flutter pub get
 Gunakan perintah berikut untuk menjalankan aplikasi pada emulator atau perangkat fisik:
 
 ```bash
-flutter run
+flutter run --no-enable-impeller
 ```
 
 ---
